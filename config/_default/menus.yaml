@@ -9,10 +9,10 @@ main:
     weight: 10
  
   - name: Experiences
-    url: '#projects'
+    url: '#experience'
     weight: 20
   - name: Blogs
-    url: '#talks'
+    url: '#blogs'
     weight: 30
 
   - name: Contact
