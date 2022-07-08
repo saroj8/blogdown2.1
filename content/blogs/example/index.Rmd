@@ -12,7 +12,7 @@ external_link: ""
 # slides: example
 summary: 
 tags:
-title: Blogs will be live
+title: Blogs will be live soon
 url_code: ""
 url_pdf: ""
 url_slides: ""
